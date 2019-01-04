@@ -3,3 +3,4 @@ re = 12
 en = 20
 zz = 40
 zzmd = 50
+mdzz = 50
